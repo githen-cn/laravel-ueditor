@@ -1,0 +1,18 @@
+{
+    "name": "githen/laravel-ueditor",
+    "description": "基于laravel的ueditor",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Githen\\LaravelUeditor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "githen",
+            "email": "githen@foxmail.com"
+        }
+    ],
+    "require": {}
+}
